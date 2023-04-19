@@ -1,8 +1,8 @@
 import './globals.css';
 
 export const metadata = {
-  title: 'Simple Books API',
-  description: 'Simple Books API using Next.js',
+  title: 'Simple Book API',
+  description: 'Simple Book API created using NEXT.JS and Neon',
 };
 
 export default function RootLayout({
